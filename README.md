@@ -1,3 +1,6 @@
+
+
+<img width="1584" height="396" alt="mehmethan" src="https://github.com/user-attachments/assets/aff44ce9-9619-430d-98f9-9bb4530c64ca" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmethanozansoy&label=Profile%20views&color=0e75b6&style=flat" alt="mehmethanozansoy" /> </p>
 
 <h1 align="center">Hi 👋, I’m Mehmethan Ozansoy.</h1>
