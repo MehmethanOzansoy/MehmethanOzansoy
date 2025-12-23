@@ -49,5 +49,5 @@ Feel free to reach out via email or connect with me on LinkedIn.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toramanarda/MehmethanOzansoy/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toramanarda/MehmethanOzansoy/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/toramanarda/MehmethanOzansoy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MehmethanOzansoy/MehmethanOzansoy/output/github-contribution-grid-snake.svg">
 </picture>
