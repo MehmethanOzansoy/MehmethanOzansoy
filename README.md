@@ -31,7 +31,7 @@ Feel free to reach out via email or connect with me on LinkedIn.
 
 
 # 📊 GitHub GitHub Trophies:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmethanozansoy&" alt="mehmethanozansoy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MehmethanOzansoy&" alt="MehmethanOzansoy" /></p>
 
 
 ## 🏆 GitHub Trophies
