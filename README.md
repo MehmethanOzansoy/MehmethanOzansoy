@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmethanozansoy&label=Profile%20views&color=0e75b6&style=flat" alt="mehmethanozansoy" /> </p>
 
-<h1 align="left">Hi 👋, I’m Mehmethan Ozansoy.</h1>
+<h1 align="center">Hi 👋, I’m Mehmethan Ozansoy.</h1>
 
-# 💫 About Me:
+<h2>💫 About Me</h2>
 I have hands-on experience building backend applications using ASP.NET Core
 and Laravel, working with RESTful APIs and relational databases.
 I am interested in designing clean, maintainable, and production-ready systems,
